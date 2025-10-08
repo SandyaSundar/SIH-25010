@@ -104,6 +104,9 @@ Community Q&A: Local farmer interaction through a discussion board.
 Offline Predictive Advice: Stored advice usable without internet.
 
 ![alt text](<Crop Advisory Design.jpg>)
+![alt text](<flowchart diagram.png>)
+
+
 
 ## Feasibility and Viability
 
